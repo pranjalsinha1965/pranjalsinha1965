@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalsinha1965&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalsinha1965" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjalsinha1965" alt="pranjalsinha1965" /></a> </p>
-
 - 🔭 I’m currently working on(Provides free certification) [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 
 - 🌱 I’m currently learning **C-Labs, C++(OOP), JAVA.....(Languages linked to academics)**
