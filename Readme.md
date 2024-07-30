@@ -23,6 +23,24 @@
 
 - ⚡ Fun fact **Bingo !!! Race against time ?? No time to die**
 
+- Major Project Links:
+- 1. https://medium.com/@ernestkwashie3/three-3-tier-architecture-to-host-a-mern-stack-application-on-aws-4c1bf97a99d7
+  2. https://medium.com/@kesaralive/getting-started-with-docker-compose-hands-on-project-experience-e562ab07e24c
+  3. GitHub Profile: https://github.com/pranjalsinha1965
+  4. LinkedIn Profile: https://www.linkedin.com/in/pranjalsinha02/(linkedin profile)
+  5. Resume: https://drive.google.com/file/d/1rI8UBGigdBiUJjhSoDTpp9te_L457WbB/view?usp=sharing
+  6. Earthquake & rainfall Production
+     https://drive.google.com/file/d/1nHL4yoejgpbLdOcP4dDwpPiBWQqw1J7r/view?usp=sharing
+  7. Fake News classifier using NLP
+     https://drive.google.com/file/d/1HV4Up34vFVGfLqgBTK0-HrbJMSOUie1N/view?usp=sharing
+  8. ML-Based voice bot assistant
+     https://docs.google.com/document/d/1BDT31pzazBIgqS8O_mJvMm4CVw-ZzQH8y6kuPxK81CE/edit?usp=sharing
+  9. Ash Vehicle Queue Application
+https://drive.google.com/file/d/1MJ0vA16akXIN9iUmuwLULeZcOhhpoj_a/view?usp=sharing
+10. Video link: https://drive.google.com/file/d/1Qu3UoTUVtWX759SWwgBFSu272cS7tOaO/view?usp=sharing
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/2029166@kiit.ac.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="2029166@kiit.ac.in" height="30" width="40" /></a>
