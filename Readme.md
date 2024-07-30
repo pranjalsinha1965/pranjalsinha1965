@@ -5,6 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=pranjalsinha1965&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalsinha1965" />
 </p>
 
+![Showcase Image](https://miro.medium.com/v2/resize:fit:828/format:webp/1*vY_kYXbtHqx4jetUAedfqg.jpeg)
+
 - 🔭 I’m currently working on [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 
 - 🌱 I’m currently learning **C-Labs, C++ (OOP), JAVA... (Languages linked to academics)**
@@ -37,6 +39,7 @@
 8. [ML-Based Voice Bot Assistant](https://docs.google.com/document/d/1BDT31pzazBIgqS8O_mJvMm4CVw-ZzQH8y6kuPxK81CE/edit?usp=sharing)
 9. [Ash Vehicle Queue Application](https://drive.google.com/file/d/1MJ0vA16akXIN9iUmuwLULeZcOhhpoj_a/view?usp=sharing)
 10. [Project Video Link](https://drive.google.com/file/d/1Qu3UoTUVtWX759SWwgBFSu272cS7tOaO/view?usp=sharing)
+
 
 
 <h3 align="left">Connect with me:</h3>
