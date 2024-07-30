@@ -1,44 +1,42 @@
 <h1 align="center">Hi 👋, I'm Pranjal Sinha</h1>
-<h3 align="center">A passionate frontend developer, python enthusiast(with interest in ML), basketballer, singer........</h3>
+<h3 align="center">A passionate frontend developer, python enthusiast (with interest in ML), basketballer, singer...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalsinha1965&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalsinha1965" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pranjalsinha1965&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalsinha1965" />
+</p>
 
-- 🔭 I’m currently working on(Provides free certification) [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+- 🔭 I’m currently working on [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 
-- 🌱 I’m currently learning **C-Labs, C++(OOP), JAVA.....(Languages linked to academics)**
+- 🌱 I’m currently learning **C-Labs, C++ (OOP), JAVA... (Languages linked to academics)**
 
 - 👯 I’m looking to collaborate on [Google coding competitions](https://codingcompetitions.withgoogle.com/)
 
 - 🤝 I’m looking for help with [Google developers](https://developers.google.com/learn?skill=introductory)
 
-- 👨‍💻 All of my projects are available at [https://github.com/pranjalsinha1965](https://github.com/pranjalsinha1965)
+- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/pranjalsinha1965)
 
-- 📝 I regularly write articles on [(Yet to come)]((Yet to come))
+- 📝 I regularly write articles on *(Yet to come)*
 
-- 💬 Ask me about **react, json, swift, ruby....**
+- 💬 Ask me about **React, JSON, Swift, Ruby...**
 
-- 📫 How to reach me **pranjalsinha1965@gmail.com**
+- 📫 How to reach me: **pranjalsinha1965@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pranjal-sinha-9b2137225/](https://www.linkedin.com/in/pranjal-sinha-9b2137225/)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/pranjalsinha02/)
 
-- ⚡ Fun fact **Bingo !!! Race against time ?? No time to die**
+- ⚡ Fun fact: **Bingo !!! Race against time ?? No time to die**
 
-- Major Project Links:
-- 1. https://medium.com/@ernestkwashie3/three-3-tier-architecture-to-host-a-mern-stack-application-on-aws-4c1bf97a99d7
-  2. https://medium.com/@kesaralive/getting-started-with-docker-compose-hands-on-project-experience-e562ab07e24c
-  3. GitHub Profile: https://github.com/pranjalsinha1965
-  4. LinkedIn Profile: https://www.linkedin.com/in/pranjalsinha02/(linkedin profile)
-  5. Resume: https://drive.google.com/file/d/1rI8UBGigdBiUJjhSoDTpp9te_L457WbB/view?usp=sharing
-  6. Earthquake & rainfall Production
-     https://drive.google.com/file/d/1nHL4yoejgpbLdOcP4dDwpPiBWQqw1J7r/view?usp=sharing
-  7. Fake News classifier using NLP
-     https://drive.google.com/file/d/1HV4Up34vFVGfLqgBTK0-HrbJMSOUie1N/view?usp=sharing
-  8. ML-Based voice bot assistant
-     https://docs.google.com/document/d/1BDT31pzazBIgqS8O_mJvMm4CVw-ZzQH8y6kuPxK81CE/edit?usp=sharing
-  9. Ash Vehicle Queue Application
-https://drive.google.com/file/d/1MJ0vA16akXIN9iUmuwLULeZcOhhpoj_a/view?usp=sharing
-10. Video link: https://drive.google.com/file/d/1Qu3UoTUVtWX759SWwgBFSu272cS7tOaO/view?usp=sharing
+### Major Project Links:
 
+1. [Three-Tier Architecture to Host a MERN Stack Application on AWS](https://medium.com/@ernestkwashie3/three-3-tier-architecture-to-host-a-mern-stack-application-on-aws-4c1bf97a99d7)
+2. [Getting Started with Docker Compose: Hands-On Project Experience](https://medium.com/@kesaralive/getting-started-with-docker-compose-hands-on-project-experience-e562ab07e24c)
+3. [GitHub Profile](https://github.com/pranjalsinha1965)
+4. [LinkedIn Profile](https://www.linkedin.com/in/pranjalsinha02/)
+5. [Resume](https://drive.google.com/file/d/1rI8UBGigdBiUJjhSoDTpp9te_L457WbB/view?usp=sharing)
+6. [Earthquake & Rainfall Prediction](https://drive.google.com/file/d/1nHL4yoejgpbLdOcP4dDwpPiBWQqw1J7r/view?usp=sharing)
+7. [Fake News Classifier Using NLP](https://drive.google.com/file/d/1HV4Up34vFVGfLqgBTK0-HrbJMSOUie1N/view?usp=sharing)
+8. [ML-Based Voice Bot Assistant](https://docs.google.com/document/d/1BDT31pzazBIgqS8O_mJvMm4CVw-ZzQH8y6kuPxK81CE/edit?usp=sharing)
+9. [Ash Vehicle Queue Application](https://drive.google.com/file/d/1MJ0vA16akXIN9iUmuwLULeZcOhhpoj_a/view?usp=sharing)
+10. [Project Video Link](https://drive.google.com/file/d/1Qu3UoTUVtWX759SWwgBFSu272cS7tOaO/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
