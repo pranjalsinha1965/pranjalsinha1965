@@ -35,9 +35,9 @@
 4. [LinkedIn Profile](https://www.linkedin.com/in/pranjalsinha02/)
 5. [Resume](https://drive.google.com/file/d/1vBNdI893sdA_K9IQtFEpbr1OThoReQ1C/view?usp=sharing)
 6. [Earthquake & Rainfall Prediction](https://drive.google.com/file/d/1nHL4yoejgpbLdOcP4dDwpPiBWQqw1J7r/view?usp=sharing)
-7. [Fake News Classifier Using NLP](https://drive.google.com/file/d/1HV4Up34vFVGfLqgBTK0-HrbJMSOUie1N/view?usp=sharing)
-8. [ML-Based Voice Bot Assistant](https://docs.google.com/document/d/1BDT31pzazBIgqS8O_mJvMm4CVw-ZzQH8y6kuPxK81CE/edit?usp=sharing)
-9. [Ash Vehicle Queue Application](https://drive.google.com/file/d/1MJ0vA16akXIN9iUmuwLULeZcOhhpoj_a/view?usp=sharing)
+7. [Fake News Classifier Using NLP](https://drive.google.com/file/d/1ncqxj2WRALQWC3uqE2NjMRKeIU5HLAjg/view?usp=drive_link)
+8. [ML-Based Voice Bot Assistant](https://drive.google.com/file/d/1_4Ska_5XQTENJ3NcAg1gI4njGpcAasys/view?usp=drive_linkg)
+9. [Ash Vehicle Queue Application](https://drive.google.com/file/d/1RyQJYeyfi8VAV0zCDJEtNXO5ARqrHXbi/view?usp=sharing)
 10. [Project Video Link](https://drive.google.com/file/d/1Qu3UoTUVtWX759SWwgBFSu272cS7tOaO/view?usp=sharing)
 
 
