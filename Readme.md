@@ -33,7 +33,7 @@
 2. [Getting Started with Docker Compose: Hands-On Project Experience](https://medium.com/@kesaralive/getting-started-with-docker-compose-hands-on-project-experience-e562ab07e24c)
 3. [GitHub Profile](https://github.com/pranjalsinha1965)
 4. [LinkedIn Profile](https://www.linkedin.com/in/pranjalsinha02/)
-5. [Resume](https://drive.google.com/file/d/1rI8UBGigdBiUJjhSoDTpp9te_L457WbB/view?usp=sharing)
+5. [Resume](https://drive.google.com/file/d/1vBNdI893sdA_K9IQtFEpbr1OThoReQ1C/view?usp=sharing)
 6. [Earthquake & Rainfall Prediction](https://drive.google.com/file/d/1nHL4yoejgpbLdOcP4dDwpPiBWQqw1J7r/view?usp=sharing)
 7. [Fake News Classifier Using NLP](https://drive.google.com/file/d/1HV4Up34vFVGfLqgBTK0-HrbJMSOUie1N/view?usp=sharing)
 8. [ML-Based Voice Bot Assistant](https://docs.google.com/document/d/1BDT31pzazBIgqS8O_mJvMm4CVw-ZzQH8y6kuPxK81CE/edit?usp=sharing)
