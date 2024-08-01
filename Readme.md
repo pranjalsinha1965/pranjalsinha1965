@@ -40,6 +40,11 @@
 9. [Ash Vehicle Queue Application](https://drive.google.com/file/d/1RyQJYeyfi8VAV0zCDJEtNXO5ARqrHXbi/view?usp=sharing)
 10. [Project Video Link](https://drive.google.com/file/d/1Qu3UoTUVtWX759SWwgBFSu272cS7tOaO/view?usp=sharing)
 
+Problem Solving Python:
+1. https://github.com/qiyuangong/leetcode/tree/master
+
+OOPs Python:
+1. https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/tree/master
 
 
 <h3 align="left">Connect with me:</h3>
