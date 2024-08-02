@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranjal Sinha</h1>
-<h2 align="center" href = "https://main--superlative-peony-a33a80.netlify.app/">My personal website</h2>
+<h2 align="center"><a href="https://main--superlative-peony-a33a80.netlify.app/">My personal website</a></h2>
 <h3 align="center">A passionate frontend developer, python enthusiast (with interest in ML), basketballer, singer...</h3>
 
 <p align="left">
