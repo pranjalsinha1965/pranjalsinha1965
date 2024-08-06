@@ -40,7 +40,7 @@
 8. [ML-Based Voice Bot Assistant](https://drive.google.com/file/d/1_4Ska_5XQTENJ3NcAg1gI4njGpcAasys/view?usp=drive_linkg)
 9. [Ash Vehicle Queue Application](https://drive.google.com/file/d/1RyQJYeyfi8VAV0zCDJEtNXO5ARqrHXbi/view?usp=sharing)
 10. [Project Video Link](https://drive.google.com/file/d/1Qu3UoTUVtWX759SWwgBFSu272cS7tOaO/view?usp=sharing)
-11. [Important Link](https://www.freecodecamp.org/news/how-to-set-up-custom-email/)
+11. [Important Link: Making your personal website](https://www.freecodecamp.org/news/how-to-set-up-custom-email/)
 
 Problem Solving Python:
 1. https://github.com/qiyuangong/leetcode/tree/master
