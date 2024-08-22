@@ -41,6 +41,9 @@
 9. [Ash Vehicle Queue Application](https://drive.google.com/file/d/1RyQJYeyfi8VAV0zCDJEtNXO5ARqrHXbi/view?usp=sharing)
 10. [Project Video Link](https://drive.google.com/file/d/1Qu3UoTUVtWX759SWwgBFSu272cS7tOaO/view?usp=sharing)
 11. [Important Link: Making your personal website](https://www.freecodecamp.org/news/how-to-set-up-custom-email/)
+12. [AWS-Developer-Tools](https://community.aws/content/2cDGeLqlyASanVJO9qiFI87916i/aws-cross-account-ci-cd-deployment-using-aws-developer-tools)
+13. [Project-Guidelines](https://dev.to/shanu001x/what-a-faang-hr-manager-expects-from-a-backend-developer-3hb6)
+14. [In-case-of-emergency](https://app.codegpt.co/en/marketplace/agents/llama3.1-405b)
 
 Problem Solving Python:
 1. https://github.com/qiyuangong/leetcode/tree/master
