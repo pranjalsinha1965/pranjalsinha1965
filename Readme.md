@@ -44,6 +44,13 @@
 12. [AWS-Developer-Tools](https://community.aws/content/2cDGeLqlyASanVJO9qiFI87916i/aws-cross-account-ci-cd-deployment-using-aws-developer-tools)
 13. [Project-Guidelines](https://dev.to/shanu001x/what-a-faang-hr-manager-expects-from-a-backend-developer-3hb6)
 14. [In-case-of-emergency](https://app.codegpt.co/en/marketplace/agents/llama3.1-405b)
+Here are the playlists that made all the difference:
+
+📌 𝐓𝐚𝐤𝐞 𝐔 𝐅𝐨𝐫𝐰𝐚𝐫𝐝 - Perfect for beginner to intermediate coders, this playlist offers detailed explanations of DSA concepts and their real-world applications. It’s a fantastic resource for building a strong foundation.
+
+📌 𝐓𝐞𝐜𝐡𝐝𝐨𝐬𝐞 - This channel features excellent video explanations of key problems frequently asked in top-tier companies. It’s a must-watch for mastering tricky questions and improving problem-solving skills.
+
+📌 𝐀𝐝𝐢𝐭𝐲𝐚 𝐕𝐞𝐫𝐦𝐚’𝐬 𝐃𝐲𝐧𝐚𝐦𝐢𝐜 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 & 𝐑𝐞𝐜𝐮𝐫𝐬𝐢𝐨𝐧 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 - An absolute gem for understanding dynamic programming and recursion. The explanations are clear, concise, and incredibly helpful for tackling complex problems.
 
 Problem Solving Python:
 1. https://github.com/qiyuangong/leetcode/tree/master
