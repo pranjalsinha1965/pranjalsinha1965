@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranjal Sinha</h1>
+<h1 align="center">👋 I'm Pranjal Sinha</h1>
 <h2 align="center"><a href="https://main--superlative-peony-a33a80.netlify.app/">My personal website</a></h2>
 <h3 align="center">A passionate backend developer, python enthusiast (with interest in ML), basketballer, singer...</h3>
 
