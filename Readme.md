@@ -45,6 +45,7 @@
 13. [Project-Guidelines](https://dev.to/shanu001x/what-a-faang-hr-manager-expects-from-a-backend-developer-3hb6)
 14. [In-case-of-emergency](https://app.codegpt.co/en/marketplace/agents/llama3.1-405b)
 15. [In case of working with the submodules and all](https://www.atlassian.com/git/articles/core-concept-workflows-and-tips)
+
 Here are the playlists that made all the difference:
 
 📌 𝐓𝐚𝐤𝐞 𝐔 𝐅𝐨𝐫𝐰𝐚𝐫𝐝 - Perfect for beginner to intermediate coders, this playlist offers detailed explanations of DSA concepts and their real-world applications. It’s a fantastic resource for building a strong foundation.
